@@ -1,2 +1,0 @@
-# Markware
-Markware operating system
